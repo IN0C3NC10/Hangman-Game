@@ -3,7 +3,7 @@
 
 <!-- Descrição -->
 <p align="justify">
-  Esta é uma aplicação executável bem básica, desenvolvida com fins de estudo e aprendizado em Python, realiza a apresentação da clássica "forca" e a palavra por sua vez, é obtida de forma aleatória a partir da API do Dicionário Aberto (Não se assuste se aparecer alguma palavra maluca). Toda a aplicação é circundada com o "while", contando com uma função de redefinição do jogo e também uma responsável pela "construção" da forca.
+  Esta é uma aplicação executável bem básica, desenvolvida com fins de estudo e aprendizado em Python, realiza a apresentação da clássica "forca" e a palavra por sua vez, é obtida de forma aleatória a partir da API do <a href="https://api.dicionario-aberto.net/index.html" title="Página do Dicionário Aberto" target="_blank">Dicionário Aberto</a> (Não se assuste se aparecer alguma palavra maluca). Toda a aplicação é circundada com o "while", contando com uma função de redefinição do jogo e também uma responsável pela "construção" da forca.
 </p>
 
 
