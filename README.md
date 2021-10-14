@@ -1,5 +1,5 @@
 <!-- Título -->
-<h1 align="center" id="title">Jogo da Forca</h1>
+<h1 align="center" id="title">Jogo da Forca :skull:</h1>
 
 <!-- Descrição -->
 <p align="justify">
