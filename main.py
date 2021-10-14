@@ -1,8 +1,7 @@
 import os
-import random
+import api
 
-data = ('abelha','lagartixa')   # "banco de dados"
-choosen = random.choice(data)   # palavra escolhida
+choosen = api.getData()   # palavra escolhida
 stay='s'    # permanecer no programa
 gibbet=[]   # forca
 attempt = 0 # tentativas
@@ -25,7 +24,7 @@ def reset():
     global gibbet
     global attempt
     global hangman
-    choosen = random.choice(data)   # palavra escolhida
+    choosen = api.getData()   # palavra escolhida
     gibbet=[]   # forca
     attempt = 0 # tentativas
     hangman = [
@@ -69,7 +68,7 @@ while stay=='s' or stay=='S':
         stay=input('Deseja jogar novamente?[s/n]: ')
         reset()
     elif attempt==7:
-        print("\nNãããooo Jequetibas!\nCaixão Lacrado!\n")
+        print("\nPalavra:"+str(choosen)+"\n\nNãããooo Jequetibas!\nCaixão Lacrado!\n")
         stay=input('Deseja jogar novamente?[s/n]: ')
         reset()
     else:
