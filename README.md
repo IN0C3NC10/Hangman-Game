@@ -11,8 +11,8 @@
 <p>
 	<img src="https://img.shields.io/badge/Made%20with-Python-FECC00?style=for-the-badge&logo=python&logoColor=FECC00" title="Feito com Python" alt="Feito com Python"></img>
   <img src="https://img.shields.io/badge/Used-Terminal-000000?style=for-the-badge&logo=windows-terminal&logoColor=white" title="Utilizado o Terminal" alt="Utilizado o Terminal"></img>
-  <img src="https://img.shields.io/badge/Status-Working-F08705?style=for-the-badge" title="Status do Projeto: Trabalhando" alt="Projeto em Andamento"></img>
-  <!--<img src="https://img.shields.io/badge/Status-Done-blue?style=for-the-badge" title="Status do Projeto: Concluído" alt="Projeto Concluído"></img>-->
+  <!--<img src="https://img.shields.io/badge/Status-Working-F08705?style=for-the-badge" title="Status do Projeto: Trabalhando" alt="Projeto em Andamento"></img>-->
+  <img src="https://img.shields.io/badge/Status-Done-blue?style=for-the-badge" title="Status do Projeto: Concluído" alt="Projeto Concluído"></img>
 </p>
 
 
