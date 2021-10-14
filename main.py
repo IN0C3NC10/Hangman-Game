@@ -19,7 +19,6 @@ for term in choosen:
 # ----------------------------------
 # Função que reseta o programa para uma nova partida
 def reset():
-    global data
     global choosen
     global gibbet
     global attempt
